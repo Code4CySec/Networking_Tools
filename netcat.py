@@ -1,6 +1,6 @@
 #!/bin/bash/env python3
 
-# Netcat Python3
+# Netcat replacement tools with Python3
 
 import argparse
 import socket
